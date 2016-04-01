@@ -1,0 +1,4 @@
+[26-Feb-2016 12:37:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home/mtbilken/public_html/seyis.co/roan/getjson2.php on line 22
+[01-Apr-2016 14:13:47 Europe/Istanbul] PHP Fatal error:  Cannot use [] for reading in /home/mtbilken/public_html/seyis.co/roan/add_data.php on line 67
+[01-Apr-2016 14:28:06 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/mtbilken/public_html/seyis.co/roan/dashboard.php on line 123
+[01-Apr-2016 14:29:23 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/mtbilken/public_html/seyis.co/roan/dashboard.php on line 131
