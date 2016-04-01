@@ -42,7 +42,7 @@
 
   <div id ="map" class="col-md-8">Map is missing</div>
   <div id="sidebar" class="col-md-4">
-	  <p id="p1">Click on any marker to see its properties!</p>
+	  <p id="p1">denemeClick on any marker to see its properties!</p>
       <p id="p2"></p>
       <p id="p3"></p>
       <p id="p4"></p>
